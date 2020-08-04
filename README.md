@@ -33,8 +33,10 @@
 <br />
 <br />
 
+<div style="display: flex;">
 <img align="left" alt="EJ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ejekanshjain&show_icons=true&count_private=true&hide=stars,issues" />
 <img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejekanshjain&layout=compact" />
+</div>
 
 <br />
 
