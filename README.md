@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Coder, Freelancer, and Gamer!
 - 📚 I’m currently learning everything 🤣
-- 👉 I’m looking for new opportunities
+- 👉 I’m looking for new Awesome opportunities
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
@@ -29,10 +29,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 
+<br />
 <br />
 
 <img align="left" alt="EJ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ejekanshjain&show_icons=true&count_private=true&hide=stars,issues" />
+
+<br />
 
 <img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejekanshjain&layout=compact" />
 
