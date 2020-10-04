@@ -1,4 +1,4 @@
-### Hi there, I'm Ekansh Jain - [website] 👋
+### Hello there, I'm Ekansh Jain - [website] 👋
 
 ## I'm a Developer, Coder, Freelancer, and Gamer!
 - 📚 I’m currently learning everything 🤣
