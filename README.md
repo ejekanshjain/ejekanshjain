@@ -3,7 +3,7 @@
 ## I'm a Developer, Coder, Freelancer, and Gamer!
 - 📚 I’m currently learning everything 🤣
 - 👉 I’m looking for new Awesome opportunities
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
