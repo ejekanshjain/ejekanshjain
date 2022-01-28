@@ -33,8 +33,8 @@
 <br />
 <br />
 
-<img align="left" alt="EJ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ejekanshjain&show_icons=true&count_private=true&hide=stars,issues&theme=marko" />
-<img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejekanshjain&layout=compact&theme=marko" />
+<img align="left" alt="EJ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ejekanshjain&show_icons=true&count_private=true&hide=stars,issues&theme=merko" />
+<img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejekanshjain&layout=compact&theme=merko" />
 
 <br />
 
