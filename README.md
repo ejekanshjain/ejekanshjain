@@ -9,4 +9,4 @@
 
 <img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejekanshjain&layout=compact&theme=tokyonight" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ejekanshjain&theme=tokyonight)](https://git.io/streak-stats)
+<img align="left" alt="EJ's Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=ejekanshjain&theme=tokyonight" />
